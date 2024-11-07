@@ -6,7 +6,7 @@ subtitle: <a href='#'>Psycholinguist</a>. Postdoctoral Fellow. pmaes@bu.edu.
 
 profile:
   align: right
-  image: Pauline_CAREWebsite.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Center for Autism Research Excellence - CARE</p>
