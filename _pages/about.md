@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Psycholinguist</b>. Postdoctoral Fellow. pmaes@bu.edu.
+subtitle: <b>Psycholinguist</b>. Postdoctoral Fellow. [pmaes@bu.edu](mailto:pmaes@bu.edu).
 
 profile:
   align: right
@@ -17,15 +17,16 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
-
-
-
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 Born and raised in Brussels (Belgium), I am currently based in Boston (MA) where I am completing a 3-year postdoctoral fellowship at Boston University's [Center for Autism Research Excellence](https://www.bu.edu/autism/) under the supervision of Dr. Helen Tager-Flusberg. I am leading a research project, funded by a MSCA postdoctoral grant from the European Research Executive Agency, investigating the use of echolalia during social interactions in autistic preschoolers. 
 
 Before making the big move across the pond, I earned a Ph.D. in linguistics from the Université libre de Bruxelles (Brussels, Belgium) where I worked at the [Autism in Context: Theory and Experiment](https://acte.ulb.be/index.php/fr/) lab under the supervision of Dr. Mikhail Kissine. My dissertation sought to investigate visual social attention and profiles of expressive language, as well as their interrelationship, in autistic preschoolers, including many who had very limited spoken language. 
