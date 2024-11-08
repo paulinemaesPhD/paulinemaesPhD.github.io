@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Psycholinguist</a>. Postdoctoral Fellow. pmaes@bu.edu.
+subtitle: <b>Psycholinguist</b>. Postdoctoral Fellow. pmaes@bu.edu.
 
 profile:
   align: right
